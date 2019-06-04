@@ -1,0 +1,26 @@
+{
+    "application":{
+        "name":"Sample App",
+        "type":"nodejs"
+    },
+    "build":{
+        "sourcepath":"SampleApp.sln",
+        "outputpath":""
+    },
+    "test":{
+        "enabled":"",
+        "sourcepath":"",
+        "filepattern":"",
+        "outputpath":""
+    },
+    "publish":{
+        "enabled":"",
+        "url":""
+    },
+    "deploy":{
+        "enabled":"",
+        "url":"",
+        "createrelease":"",
+        "deployrelease":""
+    }
+}
